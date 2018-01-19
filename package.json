@@ -1,0 +1,22 @@
+{
+  "name": "bbvp",
+  "version": "1.0.0",
+  "description": "bbvp",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jeroenschieven/bbvp.git"
+  },
+  "author": "Jeroen Schieven",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jeroenschieven/bbvp/issues"
+  },
+  "homepage": "https://github.com/jeroenschieven/bbvp#readme",
+  "dependencies": {
+    "say": "^0.14.0"
+  }
+}
